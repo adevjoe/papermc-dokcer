@@ -1,0 +1,1 @@
+docker build -t adevjoe/papermc:1.13.2 .
