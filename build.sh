@@ -1,1 +1,1 @@
-docker build -t adevjoe/papermc:1.13.2 .
+docker build -t adevjoe/papermc:1.14.3 .
